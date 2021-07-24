@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Belirsiz.webp",
+        "marka_adi": "Belirsiz"
+    },
+    {
+        "id": 2,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Acura.webp",
+        "marka_adi": "Acura"
+    },
+    {
+        "id": 3,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Alfa-romeo.webp",
+        "marka_adi": "Alfa Romeo"
+    },
+    {
+        "id": 4,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Aston-martin.webp",
+        "marka_adi": "Aston Martin"
+    },
+    {
+        "id": 5,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Audi.webp",
+        "marka_adi": "Audi"
+    },
+    {
+        "id": 6,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Bentley.webp",
+        "marka_adi": "Bentley"
+    },
+    {
+        "id": 7,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/BMW.webp",
+        "marka_adi": "BMW"
+    },
+    {
+        "id": 8,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Bugatti.webp",
+        "marka_adi": "Bugatti"
+    },
+    {
+        "id": 9,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Buick.webp",
+        "marka_adi": "Buick"
+    },
+    {
+        "id": 10,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Cadillac.webp",
+        "marka_adi": "Cadillac"
+    },
+    {
+        "id": 11,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Changan.webp",
+        "marka_adi": "Changan"
+    },
+    {
+        "id": 12,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Chery.webp",
+        "marka_adi": "Chery"
+    },
+    {
+        "id": 13,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Chevrolet.webp",
+        "marka_adi": "Chevrolet"
+    },
+    {
+        "id": 14,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Chrysler.webp",
+        "marka_adi": "Chrysler"
+    },
+    {
+        "id": 15,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Citroen.webp",
+        "marka_adi": "Citroen"
+    },
+    {
+        "id": 16,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Dodge.webp",
+        "marka_adi": "Dodge"
+    },
+    {
+        "id": 17,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Dongfeng.webp",
+        "marka_adi": "Dongfeng"
+    },
+    {
+        "id": 18,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Ferrari.webp",
+        "marka_adi": "Ferrari"
+    },
+    {
+        "id": 19,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Fiat.webp",
+        "marka_adi": "Fiat"
+    },
+    {
+        "id": 20,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Ford.webp",
+        "marka_adi": "Ford"
+    },
+    {
+        "id": 21,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Honda.webp",
+        "marka_adi": "Honda"
+    },
+    {
+        "id": 22,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Hummer.webp",
+        "marka_adi": "Hummer"
+    },
+    {
+        "id": 23,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Hyundai.webp",
+        "marka_adi": "Hyundai"
+    },
+    {
+        "id": 24,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Infiniti.webp",
+        "marka_adi": "Infiniti"
+    },
+    {
+        "id": 25,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Isuzu.webp",
+        "marka_adi": "Isuzu"
+    },
+    {
+        "id": 26,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Iveco.webp",
+        "marka_adi": "Iveco"
+    },
+    {
+        "id": 27,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Jaguar.webp",
+        "marka_adi": "Jaguar"
+    },
+    {
+        "id": 28,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Jeep.webp",
+        "marka_adi": "Jeep"
+    },
+    {
+        "id": 29,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Kia.webp",
+        "marka_adi": "Kia"
+    },
+    {
+        "id": 30,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Lamborghini.webp",
+        "marka_adi": "Lamborghini"
+    },
+    {
+        "id": 31,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Land-rover.webp",
+        "marka_adi": "Land Rover"
+    },
+    {
+        "id": 32,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Range-rover.webp",
+        "marka_adi": "Range Rover"
+    },
+    {
+        "id": 33,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Maserati.webp",
+        "marka_adi": "Maserati"
+    },
+    {
+        "id": 34,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Mazda.webp",
+        "marka_adi": "Mazda"
+    },
+    {
+        "id": 35,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Mercedes.webp",
+        "marka_adi": "Mercedes"
+    },
+    {
+        "id": 36,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Mini-cooper.webp",
+        "marka_adi": "Mini Cooper"
+    },
+    {
+        "id": 37,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Mitsubishi.webp",
+        "marka_adi": "Mitsubishi"
+    },
+    {
+        "id": 38,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Nissan.webp",
+        "marka_adi": "Nissan"
+    },
+    {
+        "id": 39,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Opel.webp",
+        "marka_adi": "Opel"
+    },
+    {
+        "id": 40,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Peugeot.webp",
+        "marka_adi": "Peugeot"
+    },
+    {
+        "id": 41,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Porsche.webp",
+        "marka_adi": "Porsche"
+    },
+    {
+        "id": 42,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Renault.webp",
+        "marka_adi": "Renault"
+    },
+    {
+        "id": 43,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Rolls-royce.webp",
+        "marka_adi": "Rolls-Royce"
+    },
+    {
+        "id": 44,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Seat.webp",
+        "marka_adi": "Seat"
+    },
+    {
+        "id": 45,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Skoda.webp",
+        "marka_adi": "Skoda"
+    },
+    {
+        "id": 46,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Ssang_Yong.webp",
+        "marka_adi": "Ssang Yong"
+    },
+    {
+        "id": 47,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Subaru.webp",
+        "marka_adi": "Subaru"
+    },
+    {
+        "id": 48,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Suzuki.webp",
+        "marka_adi": "Suzuki"
+    },
+    {
+        "id": 49,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Tesla.webp",
+        "marka_adi": "Tesla"
+    },
+    {
+        "id": 50,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Toyota.webp",
+        "marka_adi": "Toyota"
+    },
+    {
+        "id": 51,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Volkswagen.webp",
+        "marka_adi": "Volkswagen"
+    },
+    {
+        "id": 52,
+        "marka_logo": "https://nzappstudio.com/mobil_api/car_logos/Volvo.webp",
+        "marka_adi": "Volvo"
+    }
+]
